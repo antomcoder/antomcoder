@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">“Cada error es solo una versión más cerca de la solución.”</h2></summary>
+    <summary><h2 style="display: inline-block">“Each mistake is just one step closer to the solution.”</h2></summary>
   </ul>
 </div>
 
